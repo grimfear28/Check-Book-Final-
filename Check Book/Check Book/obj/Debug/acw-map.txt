@@ -1,0 +1,8 @@
+Check_Book.CreateButtonActivity, Check Book;md5b79e37a911d3471dca1379cf3abf8e6a.CreateButtonActivity
+Check_Book.CreateButtonActivity, Check Book, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e37a911d3471dca1379cf3abf8e6a.CreateButtonActivity
+Check_Book.CreateButtonActivity;md5b79e37a911d3471dca1379cf3abf8e6a.CreateButtonActivity
+check_book.CreateButtonActivity;md5b79e37a911d3471dca1379cf3abf8e6a.CreateButtonActivity
+Check_Book.MainActivity, Check Book;md5b79e37a911d3471dca1379cf3abf8e6a.MainActivity
+Check_Book.MainActivity, Check Book, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e37a911d3471dca1379cf3abf8e6a.MainActivity
+Check_Book.MainActivity;md5b79e37a911d3471dca1379cf3abf8e6a.MainActivity
+check_book.MainActivity;md5b79e37a911d3471dca1379cf3abf8e6a.MainActivity
