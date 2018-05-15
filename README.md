@@ -5,6 +5,8 @@
 
 The Checkbook Keeper application allows a user to open up the app, and see a list of available fields to fill out. The pre-existing records for the Checkbook Keeper are shown as soon as it is opened. The user is allowed to enter an account name, account number, date, and amount.
 
+If you experience any issues with a file path, you may need to adjust the path through the solution explorer by right-clicking the Checkbook application name and going to properties.
+
 # Main Application Screen
 
 ![Main Screen](/Images/MainForm.png "Main Screen")
