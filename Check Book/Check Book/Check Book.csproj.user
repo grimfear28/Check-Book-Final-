@@ -5,4 +5,7 @@
     <DefaultDevice>TestPhone</DefaultDevice>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\GitHub\Check Book(Final)\</ReferencePath>
+  </PropertyGroup>
 </Project>

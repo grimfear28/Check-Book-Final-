@@ -1,2 +1,0 @@
-android.app.Application
-Check_Book.Check_Book
