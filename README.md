@@ -5,12 +5,20 @@
 
 The Checkbook Keeper application allows a user to open up the app, and see a list of available fields to fill out. The pre-existing records for the Checkbook Keeper are shown as soon as it is opened. The user is allowed to enter an account name, account number, date, and amount.
 
-![CP Inc](/Images/MainForm.png "CP Inc")
-![CP Inc](/Images/MainActivity1.png "CP Inc")
-![CP Inc](/Images/MainActivity2.png "CP Inc")
-![CP Inc](/Images/MainActivity3.png "CP Inc")
-![CP Inc](/Images/MainActivity4.png "CP Inc")
-![CP Inc](/Images/Class1.png "CP Inc")
-![CP Inc](/Images/Class2.png "CP Inc")
+# Main Application Screen
+
+![Main Screen](/Images/MainForm.png "Main Screen")
+
+# Main Activity Code
+
+![Main Activity 1](/Images/MainActivity1.png "Main Activity 1")
+![Main Activity 2](/Images/MainActivity2.png "Main Activity 2")
+![Main Activity 3](/Images/MainActivity3.png "Main Activity 3")
+![Main Activity 4](/Images/MainActivity4.png "Main Activity 4")
+
+# Checkbook Instance Info Class
+
+![Class 1](/Images/Class1.png "Class 1")
+![Class 2](/Images/Class2.png "Class 2")
 
 
